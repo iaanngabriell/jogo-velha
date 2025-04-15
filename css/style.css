@@ -142,3 +142,10 @@ body{
 .show-winning-message{
     display: flex;
 }
+
+.copy{
+    bottom: 0;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
